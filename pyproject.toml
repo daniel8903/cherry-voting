@@ -2,6 +2,8 @@
 name = "cherry-voting"
 version = "0.1.0"
 dependencies = [
+    "aiohttp>=3.12.15",
     "flask",
+    "requests>=2.32.4",
     "toml",
 ]
