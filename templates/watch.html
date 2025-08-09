@@ -15,7 +15,7 @@
         </h2>
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title">{{ clip.title | default('Ohne Titel') }}</h5>
+                <h5 class="card-title">{% if clip.title %}{{ clip.title }}{% else %}Ohne Titel{% endif %}</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Geclippt von: {{ clip.creator }}</h6>
                 <div class="ratio ratio-16x9">
                     <iframe

@@ -9,11 +9,27 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1 class="text-center mb-4">Wähle eine Kategorie zum Abstimmen</h1>
-        <div class="list-group">
-            {% for category_id, category in categories.items() %}
-                <a href="{{ url_for('watch_clip', category_id=category_id, clip_index=0) }}" class="list-group-item list-group-item-action">{{ category.name }}</a>
-            {% endfor %}
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1 class="text-center">Wähle eine Kategorie zum Abstimmen</h1>
+            <a href="{{ url_for('logout') }}" class="btn btn-secondary">Logout</a>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <h2>To Do</h2>
+                <div class="list-group">
+                    {% for category_id, category in todo_categories.items() %}
+                        <a href="{{ url_for('watch_clip', category_id=category_id, clip_index=0) }}" class="list-group-item list-group-item-action">{{ category.name }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h2>Abgestimmt</h2>
+                <div class="list-group">
+                    {% for category_id, category in voted_categories.items() %}
+                        <a href="{{ url_for('watch_clip', category_id=category_id, clip_index=0) }}" class="list-group-item list-group-item-action list-group-item-success">{{ category.name }}</a>
+                    {% endfor %}
+                </div>
+            </div>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
