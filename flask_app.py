@@ -44,7 +44,7 @@ def watch_clip(category_id, clip_index):
 
     # Append parent param to existing embed URL
     separator = "&" if "?" in clip["url"] else "?"
-    embed_url = f'{clip['url']}{separator}parent={parent_domain}'
+    embed_url = f'{clip["url"]}{separator}parent={parent_domain}'
 
     return render_template(
         "watch.html",
