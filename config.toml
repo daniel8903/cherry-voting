@@ -31,7 +31,7 @@ clips = [
     { url = "https://clips.twitch.tv/embed?clip=JollyCautiousWheelDxCat-6afOisLiScPn6JRE", title = "Jara Crashout in Codenames", creator = "easynigo" },
     { url = "https://clips.twitch.tv/embed?clip=OptimisticTrustworthyChoughDerp-GllmAK2YhiI3HVK0", title = "Ich hab mein Schwanz verloren", creator = "easynigo" },
     # { url = "https://clips.twitch.tv/embed?clip=SmilingAmusedNigiriTakeNRG-x0_jvouz1aCtlf1V", title = "fallguys crashout", creator = "Ov3r_cs" },
-    { url = "https://www.twitch.tv/cherryylein/clip/VibrantGrotesqueWalletUncleNox-GgAvfZb0L1zGU3ky", title = "cherry tilt", creator = "ZoeIsSleeping" },
+    { url = "https://clips.twitch.tv/embed?clip=VibrantGrotesqueWalletUncleNox-GgAvfZb0L1zGU3ky", title = "cherry tilt", creator = "ZoeIsSleeping" },
     # { url = "https://clips.twitch.tv/embed?clip=ThoughtfulFurtivePlumageTF2John-kxkZ_eimxl-X0NHl", title = "Shoutout an die Nachbarn", creator = "Apulxd" }
 ]
 
