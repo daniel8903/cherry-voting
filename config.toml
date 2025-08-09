@@ -1,16 +1,318 @@
 [categories]
 
-[categories.funny_moments]
-name = "Funniest Moments"
+[categories.funniest_moment]
+name = "Funniest Moment"
 clips = [
-    { url = "https://clips.twitch.tv/embed?clip=embed1", title = "Clip A" },
-    { url = "https://clips.twitch.tv/embed?clip=embed2", title = "Clip B" },
-    { url = "https://clips.twitch.tv/embed?clip=embed3", title = "Clip C" }
+    { url = "https://clips.twitch.tv/embed?clip=DeadShortBubbleteaMingLee-JjbnIGXUEsqYOox1", title = "jara spritzt alles raus", creator = "Apulxd" },
+    { url = "https://clips.twitch.tv/embed?clip=CrepuscularLongCoffeeOSfrog-wvcIThvJAyRHod19", title = "pokerface", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=SuspiciousRelievedDragonfruitKeepo-76_qCZHmxEpsj1Jo", title = "Stuhl retired", creator = "BENETASTIC" },
+    { url = "https://clips.twitch.tv/embed?clip=AntsyWittyVampireRedCoat-IsAhOUvivuKiC3Kj", title = "vor Lachen fast bepisst", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=AstutePoisedBunnyBrainSlug-f04KdVRIU26pIH4H", title = "schlechtester Rülpser der Menschheitsgeschichte", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=DirtyMoistMouseBleedPurple-wSfHfwy4lQTP4F7K", title = "bis einer heult", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=ObservantUninterestedYogurtDxAbomb-1EckSBTBcIDB4hCb", title = "immer diese randoms in der lobby", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=GlamorousSpoopyPuppyDancingBaby-DYTM-EQp99StvFRi", title = "furz", creator = "juliesofi35" },
+    { url = "https://clips.twitch.tv/embed?clip=PlainResourcefulQuailHeyGuys--_Ra9395f9fqEtOV", title = "🔴 MOIN 2025 🔴 | !commands !eh !peepo", creator = "Apulxd" },
+    { url = "https://clips.twitch.tv/embed?clip=GentleUninterestedRingNotLikeThis-H-2eRNg4QV0pShmX", title = "du hast richtig fette eier", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=InnocentAlertApeKAPOW-YJDCPnD4za5lisCb", title = "mommy boots", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=DirtyPrettyGnatPhilosoraptor-SU9UXlT7LCM-ApMU", title = "", creator = "misterfischielite" },
+    { url = "https://clips.twitch.tv/embed?clip=BrainyHeartlessScorpionPRChase-Rh6gUyTMjfBk5314", title = "Was machen die da???", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=AffluentDreamyAnteaterNerfRedBlaster-RZyO9gc8wMGrLNsX", title = "JARA Bitte", creator = "easynigo" }
 ]
 
-[categories.best_plays]
-name = "Best Plays"
+[categories.rage_moment]
+name = "Rage Moment"
 clips = [
-    { url = "https://clips.twitch.tv/embed?clip=embed4", title = "Clip D" },
-    { url = "https://clips.twitch.tv/embed?clip=embed5", title = "Clip E" }
+    { url = "https://clips.twitch.tv/embed?clip=PlausibleGrotesqueRavenTwitchRaid-y9SuTVrBRo4aA45G", title = "PlausibleGrotesqueRavenTwitchRaid", creator = "" }
+]
+
+[categories.jumpscare]
+name = "Jumpscare"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=CaringGloriousOrcaBabyRage-VAflChGWLRk8oBwJ", title = "Mhm ne Ratte", creator = "Domsc4l" },
+    { url = "https://clips.twitch.tv/embed?clip=SilkyRefinedRadicchioTebowing-Z2RVWSSENmPWlfrM", title = "hat sich da jemand erschrocken?", creator = "denjo_benjo" },
+    { url = "https://clips.twitch.tv/embed?clip=BumblingSpicyLouseTriHard-aEGbmXM-qnUAwvjZ", title = "Seele hat Körper verlassen", creator = "vannomad" },
+    { url = "https://clips.twitch.tv/embed?clip=EagerTemperedLegPMSTwin-Iy7fUVpDIEfTdETT", title = "dopppelt eingepisst", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=RelentlessAffluentHawkBudBlast-OQWUDOC1iyo12ZMV", title = "W Raid", creator = "arne4424112" },
+    { url = "https://clips.twitch.tv/embed?clip=TriangularBetterOrangeOptimizePrime-IfW35rlASm4O8KIR", title = "Jumpscare...", creator = "gxbi__" },
+    { url = "https://clips.twitch.tv/embed?clip=HungryElatedClintmullinsCclamChamp-SuHFKvYI2N-Zwwh7", title = "Leicht erschrocken", creator = "DartMarco92" },
+    { url = "https://clips.twitch.tv/embed?clip=CourteousPleasantHareLitty-lbuqHohzciAy4thc", title = "Waaaahhhh", creator = "Sturmhund2002" },
+    { url = "https://clips.twitch.tv/embed?clip=CrepuscularPatientShrewOpieOP-FhNNEgojzfV0xU8v", title = "ich hasse dich", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=TubularCheerfulButterflyOneHand-fPMMAJeta3yINIIW", title = "jump scare pissed", creator = "Domsc4l" },
+    { url = "https://clips.twitch.tv/embed?clip=LightOnerousTriangleCopyThis-1zfHCG8BG4SnVRwH", title = "halli", creator = "knownixalex" },
+    { url = "https://clips.twitch.tv/embed?clip=QuaintSpeedyFriesDatSheffy-9FXbmWwncGFDxwxc", title = "Bisschen erschrocken!", creator = "Sturmhund2002" },
+    { url = "https://clips.twitch.tv/embed?clip=MiniatureCourageousPandaBloodTrail-KHf7b8T8u-H47Frq", title = "Jumspcarequeen", creator = "BENETASTIC" },
+    { url = "https://clips.twitch.tv/embed?clip=TardyHomelyStrawberryTriHard-AXAC2dpVsHB-z2qY", title = "ach du scheiße", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=ProudArtsyDogChocolateRain-GPLBAMz26zXxH6_j", title = "knock knock", creator = "BENETASTIC" },
+    { url = "https://clips.twitch.tv/embed?clip=RealBumblingAlligatorJonCarnage-V7xpmxYZw9lAJdfh", title = "kurz vor schlaganfall", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=ObliviousGoodEelMau5-PO5yXF6DAdrsOrBe", title = "Ich wusste nicht das es geht!", creator = "woDeee" },
+    { url = "https://clips.twitch.tv/embed?clip=UnusualVainOctopusFloof-JrKJCihmOmeXLECi", title = "", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=EvilRamshackleDiscPogChamp-hjzimtBv06UbScYF", title = "OMFG", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=SuperDiligentDiscBlargNaut-ChdSqw2oydeeTin5", title = "Notiz?", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=HonorableIgnorantPheasantOhMyDog-y_EMJwzzDJTSR9YW", title = "", creator = "d_ma12" },
+    { url = "https://clips.twitch.tv/embed?clip=DoubtfulCaringDogeThisIsSparta-foKFAp8II9y3DdZ1", title = "tiefenentspannt", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=SpinelessRespectfulCrabsBrainSlug-g8jtNmvgdXPQfFjO", title = "scream", creator = "zoeissleeping" },
+    { url = "https://clips.twitch.tv/embed?clip=CaringSeductiveYakBabyRage-sNCdixeEUbtzvky7", title = "ahhh", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=LazyPlausibleSquidTheTarFu-qKjlSy0imyHB-6tm", title = "", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=CrepuscularAgreeableHamburgerPermaSmug-cd-eHYESLfqfIqQL", title = "Das war unerwartet - Alter!", creator = "woDeee" },
+    { url = "https://clips.twitch.tv/embed?clip=BelovedStrongStarlingShazBotstix-rAueDwfnaG9byjqo", title = "Wie gefällt dir des Spiel?", creator = "Sturmhund2002" },
+    { url = "https://clips.twitch.tv/embed?clip=HappyFaithfulMangoNononoCat-pAiw8qmbNGU_pwy1", title = "", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=PeacefulPrettiestVultureDxCat-rgrJvoY6CDDAMphs", title = "", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=BenevolentMagnificentTireDendiFace-aXedd8Vumd2y1gjo", title = "Jara (nicht) allein im Haus", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=MoistGenerousMagpieHeyGirl-SkMtwdHmj5lrVqGZ", title = "verrückte omi", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=PolishedHilariousPassionfruitBigBrother--fc5BhZ42MSGhV5T", title = "aaaaa", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=SmokyTastyToothKlappa-MuD5uOQrf22IlLlg", title = "", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=CarefulAverageDotterelMoreCowbell-JRhHgxvpYkDGjZnm", title = "da geh ich nicht hin", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=OilyObesePlumBrainSlug-JX1sT5x3OIaNRHXq", title = "ich glaub das war schon richtig omE", creator = "nxtByte" },
+    { url = "https://clips.twitch.tv/embed?clip=SpicyAffluentConsoleFreakinStinkin-u2vpG6yslMptfRvz", title = "jumpscare lol", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=ColorfulObservantNigiriNomNom-hnZ2EcsuzRcUlpuw", title = "Nein ist er nicht", creator = "chrrunkz" }
+]
+
+[categories.lost_fail_moment]
+name = "Lost Fail Moment"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=WildSmoothNightingaleStinkyCheese-UDEMgX9CSXXNczQB", title = "Tobis Schuld", creator = "POWNZi7" },
+    { url = "https://clips.twitch.tv/embed?clip=ComfortableLovelyKimchiOptimizePrime-geq4HtY7fOTXFLWn", title = "Halbe Herz Edging Session", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=KawaiiMotionlessOkapiYouWHY-aFJUxRsqX1aOJKaK", title = "", creator = "misterfischielite" },
+    { url = "https://clips.twitch.tv/embed?clip=AstuteSpicyCurlewOMGScoots-OI1Or54AzjjIfRRS", title = "belgien", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=ChillySparklingClamANELE-ygArqELGJNsJCZYo", title = "WARUM HAT SIE SO LANG GEBRAUCHT FÜR DEN TEPPICH", creator = "" },
+    { url = "https://clips.twitch.tv/embed?clip=DaintyRefinedTitanCopyThis-utaXJfmzyGN4BJHD", title = "wieso lässt der mich nicht turnen?", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=ObeseClearCatKappaClaus-ytMLXgEAG4O_FvS_", title = "ghgeometrie seine mutter ge", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=AbrasiveKnottyPigResidentSleeper-qA186S8YDE4W06y8", title = "Was macht die Frau da? ong", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=ShyExquisiteThymeRaccAttack-yPmJlis02X20rB94", title = ".", creator = "zAlpakaTV" },
+    { url = "https://clips.twitch.tv/embed?clip=PopularConsiderateDuckDAESuppy-akLc3AvWY8aD3PDy", title = "Hast du noch Dynamite?", creator = "Sturmhund2002" },
+    { url = "https://clips.twitch.tv/embed?clip=ResourcefulCoyEaglePJSugar-wJuvYev7cdF-cO3m", title = "das ist der herd ong", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=RelatedIronicNikudonTBTacoRight-IH4Jx6pYEi8RD19V", title = "OMG MEINE LASAGNE", creator = "Apulxd" },
+    { url = "https://clips.twitch.tv/embed?clip=KnottyTawdryOtterSoonerLater-r8yqCmIerpc5r2hp", title = "Krasses Gameplay", creator = "Wildfoxn" },
+    { url = "https://clips.twitch.tv/embed?clip=ReliableAthleticTardigradeAMPEnergy-d6X5U4bqOxoHhAcP", title = "", creator = "yunglukas38" },
+    { url = "https://clips.twitch.tv/embed?clip=YummyHyperOrangeOSkomodo-InngGNa0xizM5KbE", title = "ist die totarsch...", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=GrossColorfulHeronTwitchRPG-q_l_fVkWa0TuXKgx", title = "kompetenzteam", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=TubularRepleteLegAliens-bwgITZJCI_iq-sqx", title = "Richtig oder Falsch? Französisch", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=BoredBigCockroachCclamChamp-isNqf3feg4aRLsLQ", title = "Niederlande oder Frankreich? Hauptsache Italien. Und Schweiz hat das skandinavische Kreuz", creator = "vyncxnt" },
+    { url = "https://clips.twitch.tv/embed?clip=GoldenWittyHamThisIsSparta-femyYQYxIiY8rE-e", title = "mathe", creator = "alexf0tzee" },
+    { url = "https://clips.twitch.tv/embed?clip=AmazingMushyJamDogFace-XJ6F8_aHfkoUV7RZ", title = "wortverbot", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=TenuousFancyFerretSwiftRage-DKUKjIQSpj9iZFrE", title = "", creator = "derbambusbaum312" },
+    { url = "https://clips.twitch.tv/embed?clip=SingleAbrasiveSangFloof-2fq7K7ORFnebP7px", title = "o7", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=SmilingTardyShrewPoooound-Y-Cs6x3K4kx7RZfw", title = "", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=ConcernedGiantFlamingoFunRun-OUmWv11J_pyGTd_G", title = "Viel zu viel wasser", creator = "Born4Destiny" },
+    { url = "https://clips.twitch.tv/embed?clip=SpeedyThirstyInternGingerPower-WipO_3RiHRg9N9UV", title = "keiner redet..", creator = "Ov3r_cs" }
+]
+
+[categories.perfect_timing]
+name = "Perfect Timing"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=WildSmoothNightingaleStinkyCheese-UDEMgX9CSXXNczQB", title = "Tobis Schuld", creator = "POWNZi7" },
+    { url = "https://clips.twitch.tv/embed?clip=ComfortableLovelyKimchiOptimizePrime-geq4HtY7fOTXFLWn", title = "Halbe Herz Edging Session", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=KawaiiMotionlessOkapiYouWHY-aFJUxRsqX1aOJKaK", title = "", creator = "misterfischielite" },
+    { url = "https://clips.twitch.tv/embed?clip=AstuteSpicyCurlewOMGScoots-OI1Or54AzjjIfRRS", title = "belgien", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=ChillySparklingClamANELE-ygArqELGJNsJCZYo", title = "WARUM HAT SIE SO LANG GEBRAUCHT FÜR DEN TEPPICH", creator = "alexf0tzee" },
+    { url = "https://clips.twitch.tv/embed?clip=DaintyRefinedTitanCopyThis-utaXJfmzyGN4BJHD", title = "wieso lässt der mich nicht turnen?", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=ObeseClearCatKappaClaus-ytMLXgEAG4O_FvS_", title = "ghgeometrie seine mutter ge", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=AbrasiveKnottyPigResidentSleeper-qA186S8YDE4W06y8", title = "Was macht die Frau da? ong", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=ShyExquisiteThymeRaccAttack-yPmJlis02X20rB94", title = ".", creator = "zAlpakaTV" },
+    { url = "https://clips.twitch.tv/embed?clip=PopularConsiderateDuckDAESuppy-akLc3AvWY8aD3PDy", title = "Hast du noch Dynamite?", creator = "Sturmhund2002" },
+    { url = "https://clips.twitch.tv/embed?clip=ResourcefulCoyEaglePJSugar-wJuvYev7cdF-cO3m", title = "das ist der herd ong", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=RelatedIronicNikudonTBTacoRight-IH4Jx6pYEi8RD19V", title = "OMG MEINE LASAGNE", creator = "Apulxd" },
+    { url = "https://clips.twitch.tv/embed?clip=KnottyTawdryOtterSoonerLater-r8yqCmIerpc5r2hp", title = "Krasses Gameplay", creator = "Wildfoxn" },
+    { url = "https://clips.twitch.tv/embed?clip=ReliableAthleticTardigradeAMPEnergy-d6X5U4bqOxoHhAcP", title = "", creator = "yunglukas38" },
+    { url = "https://clips.twitch.tv/embed?clip=YummyHyperOrangeOSkomodo-InngGNa0xizM5KbE", title = "ist die totarsch...", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=GrossColorfulHeronTwitchRPG-q_l_fVkWa0TuXKgx", title = "kompetenzteam", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=TubularRepleteLegAliens-bwgITZJCI_iq-sqx", title = "Richtig oder Falsch? Französisch", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=BoredBigCockroachCclamChamp-isNqf3feg4aRLsLQ", title = "Niederlande oder Frankreich? Hauptsache Italien. Und Schweiz hat das skandinavische Kreuz", creator = "vyncxnt" },
+    { url = "https://clips.twitch.tv/embed?clip=GoldenWittyHamThisIsSparta-femyYQYxIiY8rE-e", title = "mathe", creator = "alexf0tzee" },
+    { url = "https://clips.twitch.tv/embed?clip=AmazingMushyJamDogFace-XJ6F8_aHfkoUV7RZ", title = "wortverbot", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=TenuousFancyFerretSwiftRage-DKUKjIQSpj9iZFrE", title = "", creator = "derbambusbaum312" },
+    { url = "https://clips.twitch.tv/embed?clip=SingleAbrasiveSangFloof-2fq7K7ORFnebP7px", title = "o7", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=SmilingTardyShrewPoooound-Y-Cs6x3K4kx7RZfw", title = "", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=ConcernedGiantFlamingoFunRun-OUmWv11J_pyGTd_G", title = "Viel zu viel wasser", creator = "Born4Destiny" },
+    { url = "https://clips.twitch.tv/embed?clip=SpeedyThirstyInternGingerPower-WipO_3RiHRg9N9UV", title = "keiner redet..", creator = "Ov3r_cs" }
+]
+
+[categories.wholesome_moment]
+name = "Wholesome Moment"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=FurryDelightfulSashimiKeepo-_NAdTqRrV-mVpGaR", title = "imNOTcrying", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=ArborealAntediluvianPepperDuDudu-nXwTt-m5EK8leqnz", title = "", creator = "alexf0tzee" },
+    { url = "https://clips.twitch.tv/embed?clip=BitterChillyTortoiseGOWSkull-x2X-ULYT6WJsIoLn", title = "100/100", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=PatientPrettyCroquetteBlargNaut-bSAD3ZBfDVY1SpzA", title = "Sara", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=PrettiestGentlePlumageOSfrog-g9IHHYT4seKv8a5N", title = "💜🔥 HEUTE BIGFOOT JAGEN | !commands", creator = "" },
+    { url = "https://clips.twitch.tv/embed?clip=TangentialRockyAmazonBigBrother-UKikM6QWLel-T0vl", title = "", creator = "gianleco" },
+    { url = "https://clips.twitch.tv/embed?clip=OriginalStrongLlamaCorgiDerp-vYY63VuFcgIweTGY", title = "Rose", creator = "DerKeller94" }
+]
+
+[categories.wtf_passiert_hier]
+name = "WTF Passiert Hier"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=BitterInventiveFinchBabyRage-8LV9ugWkede3cRnC", title = "Bananen essen und direkt Karma bekommen", creator = "Domsc4l" },
+    { url = "https://clips.twitch.tv/embed?clip=GorgeousCalmTomatoPanicVis-xCFEA7UU2rpez6sO", title = "uhm was bitte?!?", creator = "alpha__lukas" },
+    { url = "https://clips.twitch.tv/embed?clip=YummyModernLadiesBuddhaBar-4xPoCqj51HPsqF80", title = "cherry bei streamawards WW", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=TenuousRespectfulWolverineOpieOP-XARXMI_DZf39H1w2", title = "VERLIEBT NACH 1. DATE", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=WimpyPlayfulBasenjiGrammarKing--5Qzd-Ca7gZMedcP", title = "Dreier Action auf Arbeitsklo", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=MoistAgreeableHamSeemsGood-MQV60o95nXgSEs5t", title = "clipfarming", creator = "BENETASTIC" },
+    { url = "https://clips.twitch.tv/embed?clip=ImpossibleAwkwardSproutDoggo-nlCpbXF1l0Ky7nJw", title = "ultrigaria einfach gebiss einer oma", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=SmallSpinelessAnisePoooound-OLTuuCVolGffaKOX", title = "nehmt ihr das internet weg", creator = "ischlekaya6969" },
+    { url = "https://clips.twitch.tv/embed?clip=SuperBreakableLardBrainSlug-7BuFBz2aAhWQTFMA", title = "fiddy", creator = "BENETASTIC" },
+    { url = "https://clips.twitch.tv/embed?clip=TubularMushyStapleAMPEnergy-3qgA-a_W8pBygiOz", title = "sie kann nicht mehr blasen", creator = "juliesofi35" },
+    { url = "https://clips.twitch.tv/embed?clip=TentativeMoralPoxSeemsGood-UJvHkuU_sT8JqQb7", title = "SNIFFA fuß", creator = "Apulxd" },
+    { url = "https://clips.twitch.tv/embed?clip=CooperativeAgitatedBeefGingerPower-19MsOkaiGkFoukIr", title = "avg first message", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=ArtisticCaringGoshawkHassaanChop-fuIq63Rj7-alzesk", title = "uhmmm", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=TameSparklyCaterpillarTwitchRPG-cPoT0ygt7Ox3heWv", title = "Waffen machen Jara happier als Kimmy", creator = "Apulxd" },
+    { url = "https://clips.twitch.tv/embed?clip=AgileIronicDaikonPunchTrees-1qawGc4NxCuSLCuq", title = "Daddy PAG", creator = "Apulxd" },
+    { url = "https://clips.twitch.tv/embed?clip=GloriousCautiousPepperoniBudStar-Qt0cnIbLleWXhjSM", title = "Das UwU-Girl knallt den Peepo", creator = "couchi_bra" },
+    { url = "https://clips.twitch.tv/embed?clip=HeadstrongAnnoyingRavenOMGScoots-kjn62HjDWxy0IpmR", title = "sheri träumt", creator = "8xgozecek05bdnf0" },
+    { url = "https://clips.twitch.tv/embed?clip=SullenMotionlessPlumberKappaPride-ttlyxxYb-3-7jbOn", title = "wtf is she doing?", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=DelightfulEndearingFinchMikeHogu-R3kJCeIsYkKVfnwn", title = "Erster guter Jara Stream (Dauer-Friedenssendung)", creator = "TheDreadmaster" },
+    { url = "https://clips.twitch.tv/embed?clip=ReliableBoringAubergineKappaPride-L9l9ZSBySMCWQqEm", title = "ganzer VC down bad", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=CrypticSoftCiderGOWSkull-b3sEqBhyWunRqlpo", title = "", creator = "peterparkerbtsv" },
+    { url = "https://clips.twitch.tv/embed?clip=YawningRudeDragonKevinTurtle-jI4ZtbmA1vcJ4tT_", title = "anastasia nach ner schachtel kippen", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=BoredResoluteJellyfishYouWHY-3jA3gAtfUW5Xrxwm", title = "ww porn acting", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=BlindingMotionlessKangarooBloodTrail-1mxPbfkmAo-lR5LE", title = "Jara kein fan von Wichsen", creator = "Rango555_" },
+    { url = "https://clips.twitch.tv/embed?clip=GleamingVictoriousBearTBTacoLeft-o6iSaAVSbR0ahreX", title = "alles was du willst", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=NurturingInquisitiveFriseeOMGScoots-Fr2ncnkkP2WzNNFa", title = "steifer", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=CovertCharmingSwallowPeanutButterJellyTime-ekml1mmpqZymqgGN", title = "Stimmungsschwankungen", creator = "lukasandrox" },
+    { url = "https://clips.twitch.tv/embed?clip=OriginalMotionlessBearDuDudu-QFvGGDRUx6zCO76b", title = "was bitte", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=SpicyNiceDumplingsCurseLit-RAibjnXgfD8FO7I_", title = "totalschaden", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=TallMiniatureMooseRlyTho-YLQzIkZ-7G2m74cZ", title = "normalster mädelstalk", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=InnocentAgitatedRingChocolateRain-6wR5_HJUHI5JcJDc", title = "gedanken bars undso", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=SecretivePoisedCheddarYouWHY-64YdiSdoUNsqHytM", title = "wtf ong", creator = "ischlekaya6969" }
+]
+
+[categories.cringe_moment]
+name = "Cringe Moment"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=UgliestStrangeRingChefFrank-tCmgcKE3myKMNCXA", title = "cherry-chan :3", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=JollyVastWaspANELE-3o9TTHgfBGmFM7Qp", title = "Unangenehm", creator = "MyuKEK" },
+    { url = "https://clips.twitch.tv/embed?clip=ProudBumblingHornetHeyGirl-5XYJ9DtHo7bbaOQz", title = "SUUUI", creator = "Domsc4l" },
+    { url = "https://clips.twitch.tv/embed?clip=FlaccidSuaveFungusKappaWealth-zb21uS4AVxKmSlwf", title = "Halt 3infach dein M4ul", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=TastyTsundereClintmullinsSeemsGood-qLVB7-DRcMQk-Mv-", title = "hey :3 du bist mir aufgefallen NYA", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=GiantCrazyKittenRitzMitz-yFqgTPohrIzZXng8", title = "Gerne", creator = "TheDreadmaster" },
+    { url = "https://clips.twitch.tv/embed?clip=HandsomeEncouragingBoarOptimizePrime-XhbdoKIc08sBbPLM", title = "tot", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=StrongCourteousWaterThisIsSparta-itVA_RbO0eas7cXO", title = "oida", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=AbstemiousSmellyBeeBuddhaBar-G9j4vuDbEN0-6rW4", title = "mascera", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=AgileGorgeousMageNononoCat-bMhH_0YQE8kouMbi", title = "", creator = "xjannik05" },
+    { url = "https://clips.twitch.tv/embed?clip=PeacefulAmusedElkFreakinStinkin-J6EKa48dQFNTP-JA", title = "", creator = "lukasandrox" }
+]
+
+[categories.gaming_moment]
+name = "Gaming Moment"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=BlazingDeafDurianMVGame-XJV22N-P6o74r1xT", title = "psychose", creator = "DerBambusBaum312" },
+    { url = "https://clips.twitch.tv/embed?clip=SaltyJollyPorpoiseShazBotstix-_U9kmNpeLVdm32sp", title = "mit 360 Grad gecooked", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=AlertCuriousTubersDatSheffy-GwVWxA4ALHQnBO9v", title = "MLG Water Bucket Jump", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=CarelessInnocentKuduBIRB-yuxmIPYkcJHbeSBe", title = "kann das wer clippen", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=AliveHonestPlumberWutFace-4-b1LBQiRm96j__a", title = "keiner clippt", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=ColdCloudyStapleTakeNRG-SLbSxihFw-AV4oKD", title = "Ace in CS", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=PrettyCooperativeJamWTRuck-gysKnXhbTTb0fvC9", title = "JAAAAAAAAAAAAAA 2. Win Phasmo", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=PluckyGrotesqueWolfBibleThump-jo9ooHwww6jo8fI3", title = "W movement W aim", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=EnthusiasticAmazingLEDPeoplesChamp-L4Nkez2zxcSYQ1xT", title = "schnellste runde ever", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=AdventurousHumbleDragonfruitPunchTrees-RI0YjwEDS3wF4oYq", title = "", creator = "alexf0tzee" },
+    { url = "https://clips.twitch.tv/embed?clip=HelplessDeafDragonKAPOW-zVD65clC_VAYkU5P", title = "4K clutch", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=InquisitiveWimpyHawkBleedPurple-k1xLXNP24QPnQ0pK", title = "4K MUGA", creator = "Ov3r_cs" }
+]
+
+[categories.bester_versprecher]
+name = "Bester Versprecher"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=RichUgliestSangSpicyBoy-Sim76-cV8ck_vjAJ", title = "Chillige Empfehlung", creator = "xICEPICKlive" },
+    { url = "https://clips.twitch.tv/embed?clip=CoyFamousPelicanBudBlast-wukTp2SLhSRo9Hw4", title = "Schlafrhythmus fixxen Pag", creator = "BENETASTIC" },
+    { url = "https://clips.twitch.tv/embed?clip=ArborealOnerousPresidentMingLee-XT-_L8NfNAz_dk-4", title = "belch", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=AgileAbstruseShrewBCWarrior-L1yuMmsgbnm3GT2l", title = "was fürn stream?", creator = "vyncxnt" },
+    { url = "https://clips.twitch.tv/embed?clip=ThoughtfulInexpensiveButterOptimizePrime-Ci0jv2gReUy4XhnF", title = "die synapsen feuern nicht", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=CleverBetterBaconCoolCat-Ufx8ar-mWf0WV79a", title = "Thermofor...doid", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=BombasticRelatedLaptopCurseLit-A6iRGWoRVceqwiIQ", title = "VOrhautverkrümmung!", creator = "Sturmhund2002" },
+    { url = "https://clips.twitch.tv/embed?clip=DifficultKindGerbilCclamChamp-v1mUtKU0F1z9nUN6", title = "10km es gibt 20km", creator = "ente_vvs" }
+]
+
+[categories.bester_music_moment]
+name = "Bester Music Moment"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=GorgeousBrainyFennelFreakinStinkin-1ZO_DkT_B94PV2gq", title = "JAAAAAAAA (die armen Kopfhörer)", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=FantasticFurtiveKoupreyMcaT-KGQDrMHceQavKYew", title = "DÖDÖDÖDÖ", creator = "Sturmhund2002" },
+    { url = "https://clips.twitch.tv/embed?clip=MiniatureDelightfulDadOSfrog-fOpL8zgEumvKeLD8", title = "dj schwans am aux", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=SillyEnthusiasticDragonflyPogChamp-ZQolUkrf_sg5-635", title = "wenn beim Meeting Adel Tawil angestimmt wird", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=HorribleTastyHareMau5-nrFhZcuC450zmke7", title = "alles verkackt", creator = "wildfoxn" },
+    { url = "https://clips.twitch.tv/embed?clip=AggressiveAmorphousOilOneHand-YqAxPinAGr_ZY64_", title = "oh oh oh", creator = "alexf0tzee" },
+    { url = "https://clips.twitch.tv/embed?clip=BumblingCrazyGarbageNerfBlueBlaster-3QpEtTRUkk0POaDH", title = "Ich singe nie wieder! Auch Jara:", creator = "Sturmhund2002" },
+    { url = "https://clips.twitch.tv/embed?clip=ProductiveSpunkyRutabagaShadyLulu-Kn97kJ0CNA_wvoci", title = "hundefresstyle", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=ShyPeppyGrouseVoteYea-_Cwh3-P5EA5aiCh8", title = "dein Ex", creator = "xicepicklive" },
+    { url = "https://clips.twitch.tv/embed?clip=FantasticDeadReubenItsBoshyTime-JnWPSAWQ256On44r", title = "nagelneuer benzer", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=YummyThoughtfulSandwichDoritosChip-m_D05362IBmT2C0f", title = "ZMAUL DISSTRACK", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=ApatheticImpartialSquidPunchTrees-3vLNFiecUvMpAURe", title = "cherry Trainor", creator = "easynigo" }
+]
+
+[categories.irl_moment]
+name = "IRL Moment"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=BigInspiringPenguinPoooound-tv1e9nzURLPTxZoG", title = "Tobi down", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=FastFrailCobblerBrainSlug-Kj0F_l6NfzbUMvxL", title = "danke für die info", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=ThirstyConfidentFishAMPTropPunch-8ojgQEu5kMPCC3kw", title = "was macht Tobi da??", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=JazzyCarelessPastaDancingBanana-fmV1BX9SfMARtcOD", title = "joa", creator = "vyncxnt" },
+    { url = "https://clips.twitch.tv/embed?clip=RepleteCrepuscularCrabPartyTime-IByYr_7iXfIDd6bV", title = "wtf", creator = "juliesofi35" },
+    { url = "https://clips.twitch.tv/embed?clip=ColorfulSmoothHorseradishPJSugar-Y3nn-g4cRTx9ERMA", title = "schizokameramann", creator = "juliesofi35" },
+    { url = "https://clips.twitch.tv/embed?clip=IntelligentObedientLouseKAPOW-yrKBFlWOnDBo-drw", title = "„Aufeinmal folg ich dir schon“ 😭😭😭 HAHAHA", creator = "KingJulienKJ" },
+    { url = "https://clips.twitch.tv/embed?clip=AmazonianSparklingDugongBudBlast-549uQUMWKyZPrVe6", title = "keiner da", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=ConfidentSavorySpaghettiANELE-99wiP93ey8PGYT0I", title = "respectfully hot", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=DiligentHumbleSageLitty-voT1VadZu0HoaLub", title = "geklettert wie ein liger", creator = "vyncxnt" },
+    { url = "https://clips.twitch.tv/embed?clip=GlamorousSpoopyPuppyDancingBaby-DYTM-EQp99StvFRi", title = "furz", creator = "juliesofi35" },
+    { url = "https://clips.twitch.tv/embed?clip=RamshackleCautiousCodRitzMitz-KDIdfnO2qPxzacRS", title = "naaaah", creator = "lukasandrox" },
+    { url = "https://clips.twitch.tv/embed?clip=InspiringTenderFishGivePLZ-5zFx0TF0bzswienE", title = "sideeye", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=BombasticAliveStingrayCharlieBitMe-huyAw4b6G1Z2MsLf", title = "war ok", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=PleasantOnerousVelociraptorPastaThat-SBq-Db8kG6NyC_25", title = "haher", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=TubularEasyConsoleDancingBaby-WHZYi3OIHxgiMupQ", title = "zuschauer IST CRAZY", creator = "juliesofi35" },
+    { url = "https://clips.twitch.tv/embed?clip=SillyShakingCodRaccAttack-EHW-R-Eglxpw0Mok", title = "pinguin auf dem Walljump", creator = "benetastic" },
+    { url = "https://clips.twitch.tv/embed?clip=BumblingCheerfulStinkbugCharlietheUnicorn-CV75uaH76raBE1O4", title = "gutenmorgen", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=SpeedyWanderingMoonCharlietheUnicorn-VVaORCIRi34kEtqr", title = "wir sind die letzten", creator = "vyncxnt" },
+    { url = "https://clips.twitch.tv/embed?clip=DirtyAmorphousAsparagusWTRuck-K9vb8Zc0kt0G2mby", title = "live edit", creator = "zmaulskitten" },
+    { url = "https://clips.twitch.tv/embed?clip=ProudNastySamosaKappa-0bwkzaTWhZ43azCS", title = "feuerzeug holen pag", creator = "benetastic" },
+    { url = "https://clips.twitch.tv/embed?clip=AgileGrotesqueEggplantFeelsBadMan--MhrYjSIkiZ6D_Vu", title = "fiddy", creator = "juliesofi35" },
+    { url = "https://clips.twitch.tv/embed?clip=NeighborlyGenerousEggnogResidentSleeper-vs3614rVQeH7vndo", title = "Bro ist geschockt...", creator = "gxbi__" }
+]
+
+[categories.ww_moment]
+name = "WW Moment"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=GiantFairElkPastaThat-TqyGKlwyXA64-Yu_", title = "Greifarmautomaten Goat", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=OriginalStrongLlamaCorgiDerp-vYY63VuFcgIweTGY", title = "Rose", creator = "DerKeller94" },
+    { url = "https://clips.twitch.tv/embed?clip=FunnyHorribleSowChefFrank-vq06yDOzspcGFZdY", title = "erster backflip", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=SwissAggressiveRabbitMau5-n6c0zPLWE8h76PPp", title = "hochgekämpft", creator = "vyncxnt" },
+    { url = "https://clips.twitch.tv/embed?clip=AbstruseSpookyAnt4Head-yZLqfiDZN88vGJs7", title = "WW Rampe", creator = "vyncxnt" },
+    { url = "https://clips.twitch.tv/embed?clip=OddWittyAniseAMPEnergyCherry-QdIIRKpeV6rwjWzq", title = "RED BULL PARTNER WW", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=StormyFaithfulCoyoteNerfRedBlaster-1m40rBOu19U2v0FN", title = "Der Bär", creator = "Steigertaler" },
+    { url = "https://clips.twitch.tv/embed?clip=KathishShortEggplantPicoMause-CJlmRyp987uORM5o", title = "first try double cartwheel", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=PrettyCooperativeJamWTRuck-gysKnXhbTTb0fvC9", title = "JAAAAAAAAAAAAAA 2. Win Phasmo", creator = "easynigo" }
+]
+
+[categories.huh_moment]
+name = "HUH Moment"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=ZealousMagnificentRadicchioBigBrother-nGvFW0yTieQIKF0L", title = "jaras Bedürfnisse", creator = "couchi_bra" },
+    { url = "https://clips.twitch.tv/embed?clip=BashfulAnimatedDinosaurPRChase-bOW4JlJV-Yml9mvQ", title = "würde", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=KnottyAltruisticAirGuitarGOWSkull-Q8xAOCUTH_E7-RxT", title = "leonie dominiert", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=FragileLovelyWalletPrimeMe-azo-AD7YDbsdbLcd", title = "uhm", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=MiniatureVivaciousEchidnaKippa-blFpu27NQBPjn67G", title = "mega geil", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=BombasticShyMomOptimizePrime-mxqAJdbxpDvd-GlZ", title = "raw", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=VivaciousTawdryKuduGrammarKing-DyMTBJlG2CYJN2tM", title = "KACHOOWWWW", creator = "notskyfive" },
+    { url = "https://clips.twitch.tv/embed?clip=CrazyPluckyHyenaPartyTime-jbMsaBwgIxjOJIkd", title = "uhm was", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=ReliableRepleteEndiveSuperVinlin-MATcwJaPBBwZuFfX", title = "Jara liebt schmerzen welche fragen wir nicht", creator = "schwach_leon" },
+    { url = "https://clips.twitch.tv/embed?clip=IcyPreciousAxeBrainSlug-yuUil4kWqfc0gtpB", title = "Motorradkleidung zu eng", creator = "schmockler" },
+    { url = "https://clips.twitch.tv/embed?clip=TastyTawdryAlfalfaNinjaGrumpy-y-tX21Mb-8Lxlkld", title = "", creator = "knownixalex" },
+    { url = "https://clips.twitch.tv/embed?clip=DepressedSavoryChipmunkJebaited-ZHveh98qViS3OdBY", title = "hat dich das geil gemacht", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=IcyCredulousGarageMingLee-S1j2eEnNZJYlvyZf", title = "uhm steif", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=AwkwardGeniusMochaPanicBasket-f3lJmD83kC0yrXyg", title = "based", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=GorgeousCalmTomatoPanicVis-xCFEA7UU2rpez6sO", title = "uhm was bitte?!?", creator = "alpha__lukas" },
+    { url = "https://clips.twitch.tv/embed?clip=WonderfulPuzzledFalconHeyGirl-PQBT1xholae0JwEU", title = "bitte was", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=KathishMushyRaisinCharlietheUnicorn-Al9wmHmYxiWOtLfP", title = "perle geputzt?????", creator = "Apulxd" },
+    { url = "https://clips.twitch.tv/embed?clip=NaiveElegantBananaTBTacoLeft-xKSm8QhLCm4khcER", title = "ruhe was?", creator = "Ov3r_cs" }
+]
+
+[categories.roast_moment]
+name = "Roast Moment"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=TangibleResoluteMeatloafSpicyBoy-oaAUZEvjus9AsG58", title = "ch4 community", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=NimbleCharmingWaspShadyLulu-7qTEqjhel_EBVlR9", title = "Wheelie mit deiner Mama im Bett", creator = "p0ngl3n1s" },
+    { url = "https://clips.twitch.tv/embed?clip=GoodHardNeanderthalSSSsss-oXoZYJxN9HwEuzyy", title = "verkäufer der ayri", creator = "ente_vvs" },
+    { url = "https://clips.twitch.tv/embed?clip=EphemeralDependableBisonNerfRedBlaster-YdF6rzN3oapY-axy", title = "Brotmesser.....", creator = "Lanze165" },
+    { url = "https://clips.twitch.tv/embed?clip=TentativeWanderingLEDThunBeast-7kUS_EYQIv9sHpso", title = "Ehre genommen", creator = "Apulxd" },
+    { url = "https://clips.twitch.tv/embed?clip=PoliteAverageLeopardJonCarnage-Jfp4YMMjNs_Bs7Kb", title = "was sagt sie da woah", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=FrailSmoggyLemurBigBrother-D2i1kl9opKTU5P09", title = "du bist kein Alkoholiker", creator = "danielkrger" },
+    { url = "https://clips.twitch.tv/embed?clip=TriumphantWimpyTapirHeyGuys-RFvuGDgGqwqRVBnA", title = "Noah 2. Wahl SAJ", creator = "DerBambusBaum312" }
 ]
