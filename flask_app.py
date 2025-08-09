@@ -39,6 +39,10 @@ def watch_clip(category_id, clip_index):
     if next_clip_index >= len(category["clips"]):
         next_clip_index = None
 
+    previous_clip_index = clip_index - 1
+    if previous_clip_index < 0:
+        previous_clip_index = None
+
     # Twitch parent = current domain without port
     parent_domain = request.host.split(":")[0]
 
@@ -53,6 +57,7 @@ def watch_clip(category_id, clip_index):
         clip=clip,
         clip_index=clip_index,
         next_clip_index=next_clip_index,
+        previous_clip_index=previous_clip_index,
         embed_url=embed_url
     )
 

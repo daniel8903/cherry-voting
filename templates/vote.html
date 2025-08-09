@@ -54,11 +54,13 @@
                 const originalSrc = iframe.src;
 
                 modal.addEventListener('show.bs.modal', function () {
-                    iframe.src = originalSrc;
+                    if (iframe.src === 'about:blank') {
+                        iframe.src = originalSrc;
+                    }
                 });
 
                 modal.addEventListener('hide.bs.modal', function () {
-                    iframe.src = '';
+                    iframe.src = 'about:blank';
                 });
             });
         });
