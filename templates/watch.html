@@ -7,13 +7,19 @@
 <body>
     <div class="container mt-5">
         <h1 class="text-center">{{ category.name }}</h1>
-        <h2 class="text-center text-muted mb-4">Clip {{ clip_index + 1 }} von {{ category.clips|length }}</h2>
+        <h2 class="text-center text-muted mb-4">
+            Clip {{ clip_index + 1 }} von {{ category.clips|length }}
+        </h2>
         <div class="card">
             <div class="card-body">
                 <h5 class="card-title">{{ clip.title }}</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Geclippt von: {{ clip.creator }}</h6>
                 <div class="ratio ratio-16x9">
-                    <iframe src="{{ clip.url }}&parent=127.0.0.1" allowfullscreen></iframe>
+                    <iframe
+                        src="{{ embed_url }}"
+                        frameborder="0"
+                        allowfullscreen>
+                    </iframe>
                 </div>
             </div>
             <div class="card-footer text-center">

@@ -29,7 +29,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <div class="ratio ratio-16x9">
-                                        <iframe src="{{ clip.url }}&parent=127.0.0.1&autoplay=true" allowfullscreen></iframe>
+                                        <iframe src="{{ clip.url }}&parent={{ parent_domain }}&autoplay=true" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', (event) => {
+        document.addEventListener('DOMContentLoaded', () => {
             const modals = document.querySelectorAll('.modal');
             modals.forEach(modal => {
                 const iframe = modal.querySelector('iframe');
