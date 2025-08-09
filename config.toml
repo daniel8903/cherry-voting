@@ -5,24 +5,33 @@ name = "Funniest Moment"
 clips = [
     { url = "https://clips.twitch.tv/embed?clip=DeadShortBubbleteaMingLee-JjbnIGXUEsqYOox1", title = "jara spritzt alles raus", creator = "Apulxd" },
     { url = "https://clips.twitch.tv/embed?clip=CrepuscularLongCoffeeOSfrog-wvcIThvJAyRHod19", title = "pokerface", creator = "Ov3r_cs" },
-    { url = "https://clips.twitch.tv/embed?clip=SuspiciousRelievedDragonfruitKeepo-76_qCZHmxEpsj1Jo", title = "Stuhl retired", creator = "BENETASTIC" },
-    { url = "https://clips.twitch.tv/embed?clip=AntsyWittyVampireRedCoat-IsAhOUvivuKiC3Kj", title = "vor Lachen fast bepisst", creator = "cherryylein" },
+    # { url = "https://clips.twitch.tv/embed?clip=SuspiciousRelievedDragonfruitKeepo-76_qCZHmxEpsj1Jo", title = "Stuhl retired", creator = "BENETASTIC" },
+    # { url = "https://clips.twitch.tv/embed?clip=AntsyWittyVampireRedCoat-IsAhOUvivuKiC3Kj", title = "vor Lachen fast bepisst", creator = "cherryylein" },
     { url = "https://clips.twitch.tv/embed?clip=AstutePoisedBunnyBrainSlug-f04KdVRIU26pIH4H", title = "schlechtester Rülpser der Menschheitsgeschichte", creator = "cherryylein" },
-    { url = "https://clips.twitch.tv/embed?clip=DirtyMoistMouseBleedPurple-wSfHfwy4lQTP4F7K", title = "bis einer heult", creator = "ente_vvs" },
+    # { url = "https://clips.twitch.tv/embed?clip=DirtyMoistMouseBleedPurple-wSfHfwy4lQTP4F7K", title = "bis einer heult", creator = "ente_vvs" },
     { url = "https://clips.twitch.tv/embed?clip=ObservantUninterestedYogurtDxAbomb-1EckSBTBcIDB4hCb", title = "immer diese randoms in der lobby", creator = "Ov3r_cs" },
-    { url = "https://clips.twitch.tv/embed?clip=GlamorousSpoopyPuppyDancingBaby-DYTM-EQp99StvFRi", title = "furz", creator = "juliesofi35" },
+    # { url = "https://clips.twitch.tv/embed?clip=GlamorousSpoopyPuppyDancingBaby-DYTM-EQp99StvFRi", title = "furz", creator = "juliesofi35" },
     { url = "https://clips.twitch.tv/embed?clip=PlainResourcefulQuailHeyGuys--_Ra9395f9fqEtOV", title = "🔴 MOIN 2025 🔴 | !commands !eh !peepo", creator = "Apulxd" },
-    { url = "https://clips.twitch.tv/embed?clip=GentleUninterestedRingNotLikeThis-H-2eRNg4QV0pShmX", title = "du hast richtig fette eier", creator = "cherryylein" },
-    { url = "https://clips.twitch.tv/embed?clip=InnocentAlertApeKAPOW-YJDCPnD4za5lisCb", title = "mommy boots", creator = "Ov3r_cs" },
-    { url = "https://clips.twitch.tv/embed?clip=DirtyPrettyGnatPhilosoraptor-SU9UXlT7LCM-ApMU", title = "", creator = "misterfischielite" },
-    { url = "https://clips.twitch.tv/embed?clip=BrainyHeartlessScorpionPRChase-Rh6gUyTMjfBk5314", title = "Was machen die da???", creator = "easynigo" },
-    { url = "https://clips.twitch.tv/embed?clip=AffluentDreamyAnteaterNerfRedBlaster-RZyO9gc8wMGrLNsX", title = "JARA Bitte", creator = "easynigo" }
+    # { url = "https://clips.twitch.tv/embed?clip=GentleUninterestedRingNotLikeThis-H-2eRNg4QV0pShmX", title = "du hast richtig fette eier", creator = "cherryylein" },
+    # { url = "https://clips.twitch.tv/embed?clip=InnocentAlertApeKAPOW-YJDCPnD4za5lisCb", title = "mommy boots", creator = "Ov3r_cs" },
+    # { url = "https://clips.twitch.tv/embed?clip=DirtyPrettyGnatPhilosoraptor-SU9UXlT7LCM-ApMU", title = "", creator = "misterfischielite" },
+    # { url = "https://clips.twitch.tv/embed?clip=BrainyHeartlessScorpionPRChase-Rh6gUyTMjfBk5314", title = "Was machen die da???", creator = "easynigo" },
+    # { url = "https://clips.twitch.tv/embed?clip=AffluentDreamyAnteaterNerfRedBlaster-RZyO9gc8wMGrLNsX", title = "JARA Bitte", creator = "easynigo" }
 ]
 
 [categories.rage_moment]
 name = "Rage Moment"
 clips = [
-    { url = "https://clips.twitch.tv/embed?clip=PlausibleGrotesqueRavenTwitchRaid-y9SuTVrBRo4aA45G", title = "PlausibleGrotesqueRavenTwitchRaid", creator = "" }
+    { url = "https://clips.twitch.tv/embed?clip=NimbleSpicyLaptopRedCoat-WAD9mL3joUsYdUe1", title = "Mamer rastet aus wegen Anastasia (wo sie Sammy kannte war noch alles besser)", creator = "TheDreadmaster" },
+    { url = "https://clips.twitch.tv/embed?clip=PlausibleGrotesqueRavenTwitchRaid-y9SuTVrBRo4aA45G", title = "Kann man dich auch abdrehen", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=SpeedyYummyPterodactylSoonerLater-YoCsHPJfby11bB_C", title = "Ansage von Mamer!", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=FragileConfidentSalsifyPartyTime-ATcGk5ygOV5aREsQ", title = "Die eine Oma auf der Autobahn", creator = "cherryylein" },
+    { url = "https://clips.twitch.tv/embed?clip=RamshackleCallousOrcaGrammarKing-YGqcrxnNhFH26NS5", title = "Starker 3K", creator = "Apulxd" },
+    { url = "https://clips.twitch.tv/embed?clip=QuaintResoluteScallionMcaT-emVEWVvSBaBlRzMr", title = "f deine mutter", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=JollyCautiousWheelDxCat-6afOisLiScPn6JRE", title = "Jara Crashout in Codenames", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=OptimisticTrustworthyChoughDerp-GllmAK2YhiI3HVK0", title = "Ich hab mein Schwanz verloren", creator = "easynigo" },
+    { url = "https://clips.twitch.tv/embed?clip=SmilingAmusedNigiriTakeNRG-x0_jvouz1aCtlf1V", title = "fallguys crashout", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=ThoughtfulFurtivePlumageTF2John-kxkZ_eimxl-X0NHl", title = "Shoutout an die Nachbarn", creator = "Apulxd" }
 ]
 
 [categories.jumpscare]
