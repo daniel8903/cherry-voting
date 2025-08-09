@@ -1,0 +1,16 @@
+[categories]
+
+[categories.funny_moments]
+name = "Funniest Moments"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=embed1", title = "Clip A" },
+    { url = "https://clips.twitch.tv/embed?clip=embed2", title = "Clip B" },
+    { url = "https://clips.twitch.tv/embed?clip=embed3", title = "Clip C" }
+]
+
+[categories.best_plays]
+name = "Best Plays"
+clips = [
+    { url = "https://clips.twitch.tv/embed?clip=embed4", title = "Clip D" },
+    { url = "https://clips.twitch.tv/embed?clip=embed5", title = "Clip E" }
+]

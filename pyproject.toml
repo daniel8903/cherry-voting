@@ -1,0 +1,7 @@
+[project]
+name = "cherry-voting"
+version = "0.1.0"
+dependencies = [
+    "flask",
+    "toml",
+]
