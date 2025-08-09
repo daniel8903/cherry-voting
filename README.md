@@ -19,12 +19,23 @@ A web application for voting on Twitch clips, categorized by different moments.
    - Rename the `config.example.toml` to `config.toml`.
    - Add your Twitch clips to the `config.toml` file, under the appropriate categories.
 
-4. **Set environment variables:**
-   To fetch clip information, you need to set your Twitch API credentials as environment variables.
-   ```bash
-   export TWITCH_CLIENT_ID="your-client-id"
-   export TWITCH_CLIENT_SECRET="your-client-secret"
+4. **Configure Environment Variables:**
+
+   For local development, it's recommended to use a `.flaskenv` file to manage your environment variables. Create a file named `.flaskenv` in the root of the project with the following content:
+
    ```
+   FLASK_APP=flask_app.py
+   FLASK_ENV=development
+   ```
+
+   To fetch clip information, you also need to set your Twitch API credentials as environment variables. You can add them to your `.flaskenv` file as well:
+
+   ```
+   TWITCH_CLIENT_ID="your-client-id"
+   TWITCH_CLIENT_SECRET="your-client-secret"
+   ```
+
+   For production, you should set these environment variables directly on your deployment platform.
 
 5. **Run the application:**
    ```bash
