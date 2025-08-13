@@ -33,7 +33,7 @@ clips = [
     # { url = "https://clips.twitch.tv/embed?clip=SmilingAmusedNigiriTakeNRG-x0_jvouz1aCtlf1V", title = "fallguys crashout", creator = "Ov3r_cs" },
     { url = "https://clips.twitch.tv/embed?clip=VibrantGrotesqueWalletUncleNox-GgAvfZb0L1zGU3ky", title = "cherry tilt", creator = "ZoeIsSleeping" },
     # { url = "https://clips.twitch.tv/embed?clip=ThoughtfulFurtivePlumageTF2John-kxkZ_eimxl-X0NHl", title = "Shoutout an die Nachbarn", creator = "Apulxd" }
-]
+]https://cherrys.pythonanywhere.com/
 
 [categories.jumpscare]
 name = "Jumpscare"
@@ -191,7 +191,7 @@ clips = [
     # { url = "https://clips.twitch.tv/embed?clip=HorribleTastyHareMau5-nrFhZcuC450zmke7", title = "alles verkackt", creator = "wildfoxn" },
     # { url = "https://clips.twitch.tv/embed?clip=AggressiveAmorphousOilOneHand-YqAxPinAGr_ZY64_", title = "oh oh oh", creator = "alexf0tzee" },
     { url = "https://clips.twitch.tv/embed?clip=BumblingCrazyGarbageNerfBlueBlaster-3QpEtTRUkk0POaDH", title = "Ich singe nie wieder! Auch Jara:", creator = "Sturmhund2002" },
-    { url = "https://clips.twitch.tv/embed?clip=ProductiveSpunkyRutabagaShadyLulu-Kn97kJ0CNA_wvoci", title = "hundefresstyle", creator = "ente_vvs" },
+    # { url = "https://clips.twitch.tv/embed?clip=ProductiveSpunkyRutabagaShadyLulu-Kn97kJ0CNA_wvoci", title = "hundefresstyle", creator = "ente_vvs" },
     # { url = "https://clips.twitch.tv/embed?clip=ShyPeppyGrouseVoteYea-_Cwh3-P5EA5aiCh8", title = "dein Ex", creator = "xicepicklive" },
     # { url = "https://clips.twitch.tv/embed?clip=FantasticDeadReubenItsBoshyTime-JnWPSAWQ256On44r", title = "nagelneuer benzer", creator = "cherryylein" },
     { url = "https://clips.twitch.tv/embed?clip=YummyThoughtfulSandwichDoritosChip-m_D05362IBmT2C0f", title = "ZMAUL DISSTRACK", creator = "cherryylein" },
