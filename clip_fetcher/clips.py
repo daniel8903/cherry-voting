@@ -283,12 +283,11 @@
 # }
 
 CLIP_CATEGORIES = {
-    "Perfect_Timing": [
-    "https://www.twitch.tv/cherryylein/clip/PolishedEnjoyableVulturePJSalt-TYkPkQbglH2YWA27",
-    "https://www.twitch.tv/cherryylein/clip/StupidAntsyGrasshopperCoolStoryBro-VUKXel88XMjS19Au",
-    "https://www.twitch.tv/cherryylein/clip/YawningSnappyNoodleTTours-BCZMFA2bwXHVpM_",
-    "https://www.twitch.tv/cherryylein/clip/FurtiveSingleAardvarkMoreCowbell-t47p0NEc681uTbyD",
-    "https://www.twitch.tv/cherryylein/clip/LitigiousProudWeaselShadyLulu-U0VfmZ9yOwJzjTl7",
-    "https://www.twitch.tv/cherryylein/clip/VivaciousArtsyStrawberryRlyTho-b8UfJayxG5Qp0JZB"
+    "Lost_Moment": [
+        "https://www.twitch.tv/cherryylein/clip/ObeseClearCatKappaClaus-ytMLXgEAG4O_FvS_",
+        "https://www.twitch.tv/cherryylein/clip/AbrasiveKnottyPigResidentSleeper-qA186S8YDE4W06y8",
+        "https://www.twitch.tv/cherryylein/clip/PopularConsiderateDuckDAESuppy-akLc3AvWY8aD3PDy"
+        "https://www.twitch.tv/cherryylein/clip/ResourcefulCoyEaglePJSugar-wJuvYev7cdF-cO3m",
+        "https://www.twitch.tv/cherryylein/clip/ReliableAthleticTardigradeAMPEnergy-d6X5U4bqOxoHhAcP",
     ]
 }
