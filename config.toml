@@ -91,7 +91,8 @@ name = "Wholesome Moment"
 clips = [
     { url = "https://clips.twitch.tv/embed?clip=FurryDelightfulSashimiKeepo-_NAdTqRrV-mVpGaR", title = "imNOTcrying", creator = "Ov3r_cs" },
     # { url = "https://clips.twitch.tv/embed?clip=ArborealAntediluvianPepperDuDudu-nXwTt-m5EK8leqnz", title = "", creator = "alexf0tzee" },
-    { url = "https://clips.twitch.tv/embed?clip=BitterChillyTortoiseGOWSkull-x2X-ULYT6WJsIoLn", title = "100/100", creator = "Ov3r_cs" },
+    # { url = "https://clips.twitch.tv/embed?clip=BitterChillyTortoiseGOWSkull-x2X-ULYT6WJsIoLn", title = "100/100", creator = "Ov3r_cs" },
+    { url = "https://clips.twitch.tv/embed?clip=YummyModernLadiesBuddhaBar-4xPoCqj51HPsqF80", title = "cherry bei streamawards WW", creator = "ente_vvs" },
     # { url = "https://clips.twitch.tv/embed?clip=PatientPrettyCroquetteBlargNaut-bSAD3ZBfDVY1SpzA", title = "Sara", creator = "Ov3r_cs" },
     { url = "https://clips.twitch.tv/embed?clip=PrettiestGentlePlumageOSfrog-g9IHHYT4seKv8a5N", title = "💜🔥 HEUTE BIGFOOT JAGEN | !commands", creator = "" },
     { url = "https://clips.twitch.tv/embed?clip=TangentialRockyAmazonBigBrother-UKikM6QWLel-T0vl", title = "", creator = "gianleco" },

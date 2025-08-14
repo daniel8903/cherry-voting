@@ -20,7 +20,7 @@
                     </label>
                 {% endfor %}
             </div>
-            <div class="d-flex justify-content-between mt-4">
+            <div class="d-grid gap-2 d-md-flex justify-content-md-between mt-4">
                 <a href="{{ url_for('home') }}" class="btn btn-secondary">Zurück zur Übersicht</a>
                 <a href="{{ url_for('watch_clip', category_id=category_id, clip_index=0) }}" class="btn btn-secondary">Zurück zu den Clips</a>
                 <button type="submit" class="btn btn-primary">Stimme abgeben</button>
