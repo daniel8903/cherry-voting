@@ -9,6 +9,9 @@
 </head>
 <body>
     <div class="container mt-5">
+        <div class="text-center mb-4">
+            <video src="{{ url_for('static', filename='logo.mp4') }}" style="max-width: 100%; border-radius: 3rem; max-height: 300px" autoplay loop muted playsinline></video>
+        </div>
         <h1 class="text-center mb-4">Gib deinen Twitch-Namen ein</h1>
         <form method="post">
             <div class="mb-3">
